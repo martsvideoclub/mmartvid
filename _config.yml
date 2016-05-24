@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "MartsVideoClub"
 title_separator          : "-"
 name                     : "Mart"
-description              : ""Videos, photos and words about my family.
+description              : "Videos, photos and words about my family."
 url                      : "https://martsvideoclub.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/mmartvid" # the subpath of your site, e.g. "/blog"
 gh_repo                  :

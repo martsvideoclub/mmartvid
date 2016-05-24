@@ -1,7 +1,7 @@
 ---
 
 title: "About"
-excerpt: "I am Martin. Let me tell you a little bit about Dawsneyland."
+excerpt: "I am Martin, and this is all about my family."
 header:
   overlay_image: dusty.jpg
   teaser: dusty.jpg

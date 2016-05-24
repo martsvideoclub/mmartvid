@@ -1,12 +1,12 @@
 # main links links
 main:
   - title: "Home"
-    url: https://martsvideoclub.github.io/mmart/
+    url: https://martsvideoclub.github.io/mmartvid/
 
   - title: "About"
-    url: https://martsvideoclub.github.io/mmart/about/
+    url: https://martsvideoclub.github.io/mmartvid/about/
 
   - title: "Archive"
-    url: https://martsvideoclub.github.io/mmart/year-archive/
+    url: https://martsvideoclub.github.io/mmartvid/year-archive/
 
 

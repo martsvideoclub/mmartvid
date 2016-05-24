@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ten Days in Italy"
 excerpt: "Family holiday to Venice and Florence"
 description: "Italy holiday"

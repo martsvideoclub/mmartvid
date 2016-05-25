@@ -7,8 +7,8 @@ date: 2015-06-14 12:00:00
 author: "Martin Dawson"
 youtubeId: "sSQPhUWsO78"
 header:
-  image: 02.jpg
-  teaser: 02.jpg
+  image: godstone.jpg
+  teaser: godstone.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

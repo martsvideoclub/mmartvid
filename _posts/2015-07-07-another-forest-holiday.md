@@ -5,8 +5,8 @@ description: "Family holiday to Centerparcs"
 date: 2015-07-07 12:00:00
 youtubeId: "cX7mfYgsFsQ"
 header:
-  image: cparcsjun.jpg
-  teaser: cparcsjun.jpg
+  image: outlaw.jpg
+  teaser: outlaw.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

@@ -5,8 +5,8 @@ description: "Italy holiday"
 date: 2016-03-31 12:00:00
 youtubeId: "BGzc9WoK0pI"
 header:
-  image: florence.JPG
-  teaser: florence.JPG
+  image: florence.jpg
+  teaser: florence.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

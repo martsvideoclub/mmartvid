@@ -5,8 +5,8 @@ description: "This is the first post on Marts Media"
 date: 2015-05-17 12:00:00
 youtubeId: "zaP2VhQhsYM"
 header:
-  image: 01.jpg
-  teaser: 01.jpg
+  image: cparcsmar.jpg
+  teaser: cparcsmar.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

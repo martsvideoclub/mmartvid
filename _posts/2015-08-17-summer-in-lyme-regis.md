@@ -5,8 +5,8 @@ description: "Family holiday"
 date: 2015-08-17 12:00:00
 youtubeId: "EMO82R_TO90"
 header:
-  image: 06.jpg
-  teaser: 06.jpg
+  image: lregis.jpg
+  teaser: lregis.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

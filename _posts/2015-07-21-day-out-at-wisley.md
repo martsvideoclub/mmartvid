@@ -5,8 +5,8 @@ description: "Summer at Wisley"
 date: 2015-07-21 12:00:00
 youtubeId: "WoGND1PWnKU"
 header:
-  image: 05.jpg
-  teaser: 05.jpg
+  image: wisleyjul.jpg
+  teaser: wisleyjul.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

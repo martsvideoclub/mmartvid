@@ -5,8 +5,8 @@ description: "Christmas"
 date: 2015-12-10 12:00:00
 youtubeId: "8KhA2NnbyMY"
 header:
-  image: DSC05291.JPG
-  teaser: DSC05291.JPG
+  image: shepherd.jpg
+  teaser: shepherd.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

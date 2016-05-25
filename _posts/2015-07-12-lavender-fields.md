@@ -5,8 +5,8 @@ description: "Summer in the Lavender Fields"
 date: 2015-07-12 12:00:00
 youtubeId: "z_EJj8wJf_w"
 header:
-  image: 03.jpg
-  teaser: 03.jpg
+  image: lavfields.jpg
+  teaser: lavfields.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

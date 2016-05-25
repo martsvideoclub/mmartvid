@@ -5,8 +5,8 @@ description: "Centerparcs"
 date: 2016-02-18 12:00:00
 youtubeId: "gKkJKnTc0-0"
 header:
-  image: 2016-02-18_10-31-01.jpg
-  teaser: 2016-02-18_10-31-01.jpg
+  image: cparcsfeb.jpg
+  teaser: cparcsfeb.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

@@ -5,8 +5,8 @@ description: "Family holiday"
 date: 2015-09-04 12:00:00
 youtubeId: "nWo4l4qEViE"
 header:
-  image: 07.jpg
-  teaser: 07.jpg
+  image: cchurch.jpg
+  teaser: cchurch.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog

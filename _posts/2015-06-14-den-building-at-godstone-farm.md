@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Den building at Godstone Farm"
 excerpt: "Livvys 5th Birthday"
 description: "Livvys Birthday"

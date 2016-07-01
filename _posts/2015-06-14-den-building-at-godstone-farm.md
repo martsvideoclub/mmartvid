@@ -16,4 +16,4 @@ tags:
   - blog
 ---
 
-Birthday celebrations at Godstone Farm for Livvy, a whole lot of den building and playing n the amazing play equipment.
+Birthday celebrations at Godstone Farm for Livvy, a whole lot of den building and playing in the amazing play equipment.

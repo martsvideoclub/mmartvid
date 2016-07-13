@@ -5,8 +5,8 @@ description: "Southbank Centre Fountains"
 date: 2016-07-12 12:00:00
 youtubeId: "Emmx-6-SgB0"
 header:
-  image: sbfountains.jpg
-  teaser: sbfountains.jpg
+  image: sbfountain.jpg
+  teaser: sbfountain.jpg
   caption: "Photo credit: **Martin Dawson**"
 categories:
   - Blog
